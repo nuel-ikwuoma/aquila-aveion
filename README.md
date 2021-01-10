@@ -1,5 +1,7 @@
 # aquila-aveion
 
+See the live demo [HERE](https://nuel-ikwuoma.github.io/aquila-aveion/)
+
 ## Project setup
 ```
 yarn install
